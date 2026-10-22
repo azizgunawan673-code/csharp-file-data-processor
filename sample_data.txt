@@ -1,0 +1,3 @@
+Item: Laptop ProBook | Status: Processed | Price: 1500000
+Item: USB Wi-Fi | Status: Pending | Price: 85000
+Item: SSD SATA | Status: Processed | Price: 350000

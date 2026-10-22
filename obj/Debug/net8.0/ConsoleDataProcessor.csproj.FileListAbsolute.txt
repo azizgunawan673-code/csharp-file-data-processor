@@ -1,0 +1,14 @@
+C:\Kerja_Remote\Upwork\Active_Projects\ConsoleDataProcessor\bin\Debug\net8.0\ConsoleDataProcessor.exe
+C:\Kerja_Remote\Upwork\Active_Projects\ConsoleDataProcessor\bin\Debug\net8.0\ConsoleDataProcessor.deps.json
+C:\Kerja_Remote\Upwork\Active_Projects\ConsoleDataProcessor\bin\Debug\net8.0\ConsoleDataProcessor.runtimeconfig.json
+C:\Kerja_Remote\Upwork\Active_Projects\ConsoleDataProcessor\bin\Debug\net8.0\ConsoleDataProcessor.dll
+C:\Kerja_Remote\Upwork\Active_Projects\ConsoleDataProcessor\bin\Debug\net8.0\ConsoleDataProcessor.pdb
+C:\Kerja_Remote\Upwork\Active_Projects\ConsoleDataProcessor\obj\Debug\net8.0\ConsoleDataProcessor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Kerja_Remote\Upwork\Active_Projects\ConsoleDataProcessor\obj\Debug\net8.0\ConsoleDataProcessor.AssemblyInfoInputs.cache
+C:\Kerja_Remote\Upwork\Active_Projects\ConsoleDataProcessor\obj\Debug\net8.0\ConsoleDataProcessor.AssemblyInfo.cs
+C:\Kerja_Remote\Upwork\Active_Projects\ConsoleDataProcessor\obj\Debug\net8.0\ConsoleDataProcessor.csproj.CoreCompileInputs.cache
+C:\Kerja_Remote\Upwork\Active_Projects\ConsoleDataProcessor\obj\Debug\net8.0\ConsoleDataProcessor.dll
+C:\Kerja_Remote\Upwork\Active_Projects\ConsoleDataProcessor\obj\Debug\net8.0\refint\ConsoleDataProcessor.dll
+C:\Kerja_Remote\Upwork\Active_Projects\ConsoleDataProcessor\obj\Debug\net8.0\ConsoleDataProcessor.pdb
+C:\Kerja_Remote\Upwork\Active_Projects\ConsoleDataProcessor\obj\Debug\net8.0\ConsoleDataProcessor.genruntimeconfig.cache
+C:\Kerja_Remote\Upwork\Active_Projects\ConsoleDataProcessor\obj\Debug\net8.0\ref\ConsoleDataProcessor.dll
